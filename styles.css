@@ -1,0 +1,35 @@
+
+body {
+    background-color: #f0f4ff;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+}
+
+h1 {
+    color: darkblue;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+form {
+    border: 2px solid darkblue;
+    padding: 20px;
+    width: 300px;
+    margin: 20px auto;
+    background-color: white;
+}
+
+input {
+    padding: 8px;
+    margin: 8px;
+}
+
+a {
+    color: blue;
+}
